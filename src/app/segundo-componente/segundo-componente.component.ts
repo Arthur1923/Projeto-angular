@@ -10,7 +10,7 @@ import {FormsModule} from '@angular/forms';
 })
 export class SegundoComponenteComponent {
 
-  nomes:string='';
-  cidade:string="";
+  Estado:string='';
+  Capital:string="";
 
 }

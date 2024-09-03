@@ -10,6 +10,9 @@ import { Component } from '@angular/core';
 })
 export class PrimeiroComponenteComponent {
 
-  linguagem:string ="HTML"
 
+pais:string='Brasil';
+ano:number= 1500;
+
+ 
 }
